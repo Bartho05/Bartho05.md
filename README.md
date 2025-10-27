@@ -66,4 +66,4 @@ Meu portfólio :
 
 <br/>
 <br/>
-   <a href="tradeworkers.free.nf" target="_blank"> Trade Workers </a>
+   <a href="https://tradeworkers.free.nf/" target="_blank"> Trade Workers </a>
