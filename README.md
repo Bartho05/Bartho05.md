@@ -59,11 +59,11 @@ Meu portfólio :
 
 ## 🔨 Trabalhos em andamento 
 <p>
-    TradeWorkers
+    Trade Workers
 </p>
 
 ## ✅ Trabalhos finalizados recentemente
 
 <br/>
 <br/>
-   <a href="tradeworkers.free.nf" target="_blank"> <\a>
+   <a href="tradeworkers.free.nf" target="_blank"> Trade Workers </a>
